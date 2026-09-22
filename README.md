@@ -1,3 +1,11 @@
-Book Class and it's Data Access layer is in Book folder
-books.txt and tooks-backup.txt are in Homework1 bin/Debug/net8.0 
-Program.cs is in Homework1
+📂 YourProjectRoot/
+├── 📂 Homework1/
+│   ├── 📂 bin/
+│   │   └── 📂 Debug/
+│   │       └── 📂 net8.0/
+│   │           ├── 📄 books-backup.txt
+│   │           └── 📄 books.txt
+│   └── 📄 Program.cs
+└── 📂 Book/
+    ├── 📄 Book.cs
+    └── 📄 BookDAL.cs  <-- Your Data Access Layer file
